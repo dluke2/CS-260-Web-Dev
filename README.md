@@ -15,4 +15,7 @@ Key Features:
 - Live calculations
 - Store results
 
-![Application mockup](https://user-images.githubusercontent.com/123618573/215203166-3a5c0117-8f55-4b35-8f97-c9617e99f028.jpg)
+![Application - Main](https://user-images.githubusercontent.com/123618573/215209048-bc01d015-4123-4ad0-a337-a219b43b9db4.jpg)
+![Application - Manage](https://user-images.githubusercontent.com/123618573/215209121-e9910ad6-1804-457b-b159-fa90c5d52f93.jpg)
+![Application - Add](https://user-images.githubusercontent.com/123618573/215209160-ff436334-4a9f-45a2-add0-712b99e29bef.jpg)
+![Application - Calculations](https://user-images.githubusercontent.com/123618573/215209180-bedaacd8-b0cb-40de-9b3f-1b8d69bc4921.jpg)
