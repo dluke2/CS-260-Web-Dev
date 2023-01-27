@@ -14,3 +14,5 @@ Key Features:
 - Ability to edit expenses
 - Live calculations
 - Store results
+
+![Application mockup](https://user-images.githubusercontent.com/123618573/215203166-3a5c0117-8f55-4b35-8f97-c9617e99f028.jpg)
