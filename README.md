@@ -19,3 +19,8 @@ Key Features:
 ![Application - Manage](https://user-images.githubusercontent.com/123618573/215209121-e9910ad6-1804-457b-b159-fa90c5d52f93.jpg)
 ![Application - Add](https://user-images.githubusercontent.com/123618573/215209160-ff436334-4a9f-45a2-add0-712b99e29bef.jpg)
 ![Application - Calculations](https://user-images.githubusercontent.com/123618573/215209180-bedaacd8-b0cb-40de-9b3f-1b8d69bc4921.jpg)
+
+AWS:
+User name: dluke2
+My server's IPv4 address: http://18.223.130.210/
+REMINDER - Release elastic IP for my instance at end of class
