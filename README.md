@@ -21,6 +21,9 @@ Key Features:
 ![Application - Calculations](https://user-images.githubusercontent.com/123618573/215209180-bedaacd8-b0cb-40de-9b3f-1b8d69bc4921.jpg)
 
 AWS:
-User name: dluke2
+User name: dluke2 /n
 My server's IPv4 address: http://18.223.130.210/
 REMINDER - Release elastic IP for my instance at end of class
+
+Caddy:
+Learning VI is a much faster way of opening and making edits to files. It also doesn't require me to download things off of a server, then pushing changes.
