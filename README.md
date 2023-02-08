@@ -27,3 +27,6 @@ REMINDER - Release elastic IP for my instance at end of class
 
 Caddy:
 Learning VI is a much faster way of opening and making edits to files. It also doesn't require me to download things off of a server, then pushing changes.
+
+Simon/HTML:
+There are so many ways to do similar things in HTML. For example, I tried looking into the difference between menu and ul, and they can be used for the same things, although menu should be used for hyperlinks. I also realized the importance of seeing changes in real time. My live connection would pull up a file directory rather than the html page, so I need to get that figured out. I instead had to use CodePen, then copy the html back into VS Code, which was annoying because VS code has better completion. Using the right tools for the job makes it a lot easier.
