@@ -33,3 +33,5 @@ There are so many ways to do similar things in HTML. For example, I tried lookin
 
 CSS:
 Making something visually appealing was difficult. I ended up just making a monstrosity to practice. However, I learned the value of understanding color combinations and proportions, as it was a lot more difficult than I expected to make something visually appealing.
+
+Simon CSS: Just getting a base for head, body, and footer are important. Once that is in place, everything should fit well. A good way to do this is to set the header and footer with flex: 0, and the body at flex: 1. Using bootstrap can make customization difficult.
