@@ -37,3 +37,14 @@ Making something visually appealing was difficult. I ended up just making a mons
 Simon CSS: Just getting a base for head, body, and footer are important. Once that is in place, everything should fit well. A good way to do this is to set the header and footer with flex: 0, and the body at flex: 1. Using bootstrap can make customization difficult.
 
 DOM is going to be vital for my project. The code here https://codepen.io/dluke2/pen/MWqpooM?editors=1010 will help me with my startup application. I'll need to learn to read in inputs, then edit arrays with the information to modify the table.
+
+Simon-CSS: Reading in inputs is interesting. To disply what has already been inputed, I need to use the following structure. The .player_name is a class. The following JavaScript shows how to capture and display data.
+
+function login() {
+  const nameEl = document.querySelector("#name");
+  localStorage.setItem("userName", nameEl.value);
+  window.location.href = "play.html";
+}
+
+    const playerNameEl = document.querySelector('.player-name');
+    playerNameEl.textContent = this.getPlayerName();
